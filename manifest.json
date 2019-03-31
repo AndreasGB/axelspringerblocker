@@ -1,0 +1,29 @@
+{
+   "background": {
+      "scripts": [ "js/list.js", "js/background.js" ]
+   },
+   "default_locale": "en",
+   "description": "Block dir eine Meinung!",
+   "homepage_url": "https://github.com/revengeday/axelspringerblocker",
+   "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png"
+   },
+   "manifest_version": 2,
+   "name": "Axel Springer Blocker (ASB) - Redux Edtion",
+   "permissions": [ "webRequest", "webRequestBlocking", "http://*/*", "https://*/*" ],
+   "version": "1.1.1",
+   "web_accessible_resources": [
+      "html/block.html",
+      "html/warning.png"
+   ],
+   "browser_action": {
+      "default_icon": {
+         "128": "icons/icon128.png",
+         "16": "icons/icon16.png",
+         "48": "icons/icon48.png"
+      },
+      "default_title": "Axel Springer Blocker (ASB)"
+   }
+}

@@ -1,8 +1,11 @@
+/*
+Definitiv noch nicht alle Seiten!
+*/
 var axel = [	
 "axel-springer-akademie.de",
 "ein-herz-fuer-kinder.de",
 "ikiosk.de",
-"bild.de",
+"bild.de", /* Ekelhaft... */
 "bz-berlin.de",
 "welt.de",
 "gehalt.de",
@@ -35,7 +38,6 @@ var axel = [
 "finanzen.net",
 "idealo.de",
 "kaufda.de",
-"onmeda.de",
 "audiovideofotobild.de",
 "artcollector-magazin.de",
 "artinvestor.de",
